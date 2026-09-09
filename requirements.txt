@@ -1,0 +1,10 @@
+scanpy
+muon
+mudata
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+leidenalg
+igraph

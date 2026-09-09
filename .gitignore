@@ -1,0 +1,19 @@
+# Virtual environment
+multiomics_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large data files
+data/*.h5
+data/*.h5ad
+data/*.h5mu
+data/*.gz
+
+# Results
+results/*.h5ad
+results/*.h5mu
