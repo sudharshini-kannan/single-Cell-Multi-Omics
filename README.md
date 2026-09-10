@@ -1,4 +1,4 @@
-# 🧬 Single-Cell Multi-Omics Analysis
+# 🧬 Single-Cell Multi-Omics Analysis: Human PBMC RNA and ATAC
 
 A hands-on bioinformatics project exploring the integration of multiple single-cell data modalities using real 10x Genomics data.
 
