@@ -17,3 +17,8 @@ data/*.gz
 # Results
 results/*.h5ad
 results/*.h5mu
+
+*.h5
+*.h5ad
+*.h5mu
+*.gz
